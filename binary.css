@@ -1,0 +1,30 @@
+.h2{
+    text-align: center;
+    color: #1b4a59;
+    font-size: 30px;
+}
+.img{
+    margin-left: 628px;
+}
+.pre{
+    margin-left: 122px;
+    font-family: georgia;
+    font-size: 21px;
+}
+.box{
+    width: 70%;
+    height: 1200px;
+    background-color: #1b4a59;
+    margin-left: 200px;
+}
+.h22{
+    color: white;
+    padding-top: 66px;
+    padding-left: 255px;
+}
+.pre1{
+    color: white;
+    font-size: 20px;
+    padding-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
